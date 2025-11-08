@@ -1,7 +1,7 @@
 # Abdirahmaan Muhumed  
 ### Junior Cybersecurity Analyst
 
-Welcome! I’m starting my journey in cybersecurity, focusing on threat analysis, vulnerability research, and ethical hacking. This GitHub is my space to experiment, share knowledge, and collaborate with others in the community
+Welcome! I’m starting my journey in cybersecurity, focusing on threat analysis, vulnerability research, and ethical hacking. This GitHub is my space to experiment, share knowledge, and collaborate with others in the community.
 
 ---
 
