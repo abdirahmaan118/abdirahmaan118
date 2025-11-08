@@ -25,7 +25,9 @@ Welcome! I’m starting my journey in cybersecurity, focusing on threat analysis
 
 ---
 
+## 🌟 Featured Projects  
 
+**Launching Soon**
 
 ---
 
