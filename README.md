@@ -33,7 +33,7 @@ Welcome! I’m starting my journey in cybersecurity, focusing on threat analysis
 
  ## 📚 Qualifications
 - **CompTIA Security+**
-- **ComTIA A+**
+- **CompTIA A+**
 - **SIA CCTV License**
 - **SIA Door Supervisor License**
 - **Level 3 Emergency First Aid**
